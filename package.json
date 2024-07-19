@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "<h4>Módulo 9 de 37 - Aula 1/13</h4>",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node ./script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}

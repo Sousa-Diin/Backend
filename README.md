@@ -7,11 +7,11 @@
 | Introdução ao Backend | Concluída |
 | Funcionalidades do Backend | Concluída |
 | Explicação do Módulo | Concluída |
-| Funcionalidades: Servidor | Pendente |
-| Linhas de Comando (CLI) | Pendente |
-| CLI: Introdução ao NPM | Pendente |
-| Conhecendo os comandos npm | Pendente |
-| NPM Comandos Cheat Sheet | Pendente |
+| Funcionalidades: Servidor | Concluída |
+| Linhas de Comando (CLI) | Concluída |
+| CLI: Introdução ao NPM | Concluída |
+| Conhecendo os comandos npm | Concluída |
+| NPM Comandos Cheat Sheet | Concluída |
 | Introdução API e Web API | Pendente |
 | Objeto JSON - Conceito | Pendente |
 | Protocolos HTTP - Status Code | Pendente |
